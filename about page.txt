@@ -86,7 +86,7 @@
 
     <div class="about-section">
         <h2>About Me</h2>
-        <p>My name is Muhammad Khubaib, and I am a BSCS Evening student at Air University.</p>
+        <p>My name is Muhammad Khubaib, and I am a BSCS Evening student at Air University Islamabad.</p>
         <p>I am a passionate learner with hobbies that include programming, badminton, and cricket.</p>
         <p>My aspiration is to become a skilled full-stack web developer and a cyber security analyst in the future.</p>
     </div>
